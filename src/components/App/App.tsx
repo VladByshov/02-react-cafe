@@ -4,7 +4,7 @@ import CafeInfo from "../CafeInfo/CafeInfo.tsx";
 import type {Votes, VoteType} from "../../types/votes.ts";
 import VoteOptions from "../VoteOptions/VoteOptions.tsx";
 import VoteStats from "../VoteStats/VoteStats.tsx";
-import Notification from "../Notifications/Notification.tsx";
+import Notification from "../Notification/Notification.tsx";
 
 function App() {
   // const [count, setCount] = useState(0)
